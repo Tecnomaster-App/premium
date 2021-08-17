@@ -1,0 +1,255 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="" tvg-name="HBO" tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/HBO_TWO/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="HBO PLUS" tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/HBO_PLUS_TWO/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/HBO2_TWO/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="HBO MUNDI" tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/HBO_MUNDI_TWO/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="HBO EXTREME" tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/HBO_XTREME_TWO/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="HBO POP" tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/HBO_POP_TWO/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="HBO FAMILY" tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/HBO_FAMILY_TWO/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="HBO SIGNATURE " tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/HBO_SIGNATURE_TWO/playlist.m3u8
+#EXTINF:-1 , tvg-id="" tvg-name="STAR ACTION " tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/STAR_ACTION_TWO/playlist.m3u8
+#EXTINF:-1 , tvg-id="" tvg-name="STAR SERIES " tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/STAR_SERIES_TWO/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="STAR CLASIC " tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/STAR_CLASIC_TWO/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="STAR COMEDY " tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/STAR_COMEDY_TWO/playlist.m3u8
+#EXTINF:-1 ,tvg-id="" tvg-name="STAR FUN " tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/STAR_FUN_TWO/playlist.m3u8
+#EXTINF:-1 , tvg-id="" tvg-name="STAR LIFE " tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/ENTRETENIMIENTO/STAR_LIFE_TWO/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="STAR CHANNEL " tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/ENTRETENIMIENTO/STAR_CHENNEL_TWO/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="STARZ SUSPENSE  " tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/stz_suspence/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="STARZ ENCORE" tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/stz_encore/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="STARZ " tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/stz/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="STARZ EDGE  " tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/stz_edge/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="STARZ FAMILY" tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/Stz_enc_Family/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="PARAMOUNT " tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/PARAMOUNT_TWO/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CINEMAX " tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/ENTRETENIMIENTO/CINEMAX_TWO/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CINECANAL" tvg-logo="" group-title "CINE PREMIUM"
+http://23.237.132.90:8081/PREMIUM/CINECANAL1_TWO/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="" group-title "CINE PREMIUM"
+http://195.181.163.39/LAT_Fox_HD/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="SPACE" tvg-logo="" group-title "CINE PREMIUM"
+http://195.181.163.39/LAT_Space_HD/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="TNT" tvg-logo="" group-title "CINE PREMIUM"
+http://195.181.163.39/LAT_TNT_HD/index.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="" group-title "CINE PREMIUM"
+https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="GOLDEN" tvg-logo="" group-title "CINE PREMIUM"
+https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/index.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="STAR ACTION" tvg-logo="" group-title "CINE PREMIUM"
+http://balancer1.iptvmx.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="STAR FUN" tvg-logo="" group-title "CINE PREMIUM"
+http://balancer1.iptvmx.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="STAR SERIES" tvg-logo="" group-title "CINE PREMIUM"
+http://balancer1.iptvmx.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="STAR COMEDY" tvg-logo="" group-title "CINE PREMIUM"
+http://balancer1.iptvmx.com:8081/tecno/FOXCOMEDY.TecnoByte/chunks.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="HBO" tvg-logo="" group-title "CINE PREMIUM"
+http://balancer1.iptvmx.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
+#EXTINF:-1,tvg-id="" tvg-name=HBO2" tvg-logo="" group-title "CINE PREMIUM"
+http://balancer1.iptvmx.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="HBO PLUS" tvg-logo="" group-title "CINE PREMIUM"
+http://balancer1.iptvmx.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title "CINE PREMIUM"
+http://balancer1.iptvmx.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="HBO FAMILY" tvg-logo="" group-title "CINE PREMIUM"
+http://balancer1.iptvmx.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="HBO POP" tvg-logo="" group-title "CINE PREMIUM"
+http://balancer1.iptvmx.com:8081/tecno/HBOPOP.Tecnobyte/chunks.m3u8
+
+
+#EXTINF:-1,tvg-id="" tvg-name="ESPN 2 SUR" tvg-logo="" group-title "DEPORTES"
+http://195.181.163.39/DEP_ESPN_2_ARG/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="ESPN SUR" tvg-logo="" group-title "DEPORTES"
+http://195.181.163.39/DEP_ESPN_ARG/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="ESPN 3 SUR" tvg-logo="" group-title "DEPORTES"
+http://195.181.163.39/DEP_ESPN_3_ARG/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="ESPN 3 SUR" tvg-logo="" group-title "DEPORTES"
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="FOX SPORTS SUR " tvg-logo="" group-title "DEPORTES"
+http://195.181.163.39/DEP_FOX_SPORTS_ARG/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="FOX SPORTS 2 SUR" tvg-logo="" group-title "DEPORTES"
+http://195.181.163.39/DEP_FOX_SPORTS_2_ARG/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="FOX SPORTS 3 SUR" tvg-logo="" group-title "DEPORTES"
+http://195.181.163.39/DEP_FOX_SPORTS_3_ARG/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="TNT SPORTS" tvg-logo="" group-title "DEPORTES"
+http://195.181.163.39:80/DEP_TNT_SPORTS/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="WIN SPORTS" tvg-logo="" group-title "DEPORTES"
+http://195.181.163.39:80/DEP_WIN_SPORTS/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="WIN SPORTS" tvg-logo="" group-title "DEPORTES"
+http://23.237.132.90:8081/live/win_sp_plus_eowhnre/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="" group-title "DEPORTES"
+http://195.181.163.39/ECU-DIRECTTV_SP1/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="" group-title "DEPORTES"
+http://195.181.163.39/ECU-DIRECTTV_SP2/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="DIRECTV SPORTS PLUS" tvg-logo="" group-title "DEPORTES"
+http://23.237.132.90:8081/live/dt_sp_plus_ehwkth/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="BEIN SPORTS Ñ " tvg-logo="" group-title "DEPORTES"
+http://23.237.132.90:8081/live/BEIN_HD/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="ECDF " tvg-logo="" group-title "DEPORTES"
+http://23.237.132.90:8081/live/el_canal_de_futbol/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="TUDN " tvg-logo="" group-title "DEPORTES"
+http://23.237.132.90:8081/live/tudn_ehgqnfqwe/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="VTV PLUS " tvg-logo="" group-title "DEPORTES"
+http://23.237.132.90:8081/live/vtv_plus/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="VTV " tvg-logo="" group-title "DEPORTES"
+http://23.237.132.90:8081/live/vtv/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="GOL PERU " tvg-logo="" group-title "DEPORTES"
+http://23.237.132.90:8081/live/gol_peru_sd/playlist.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="GOL ECUADOR " tvg-logo="" group-title "DEPORTES"
+http://sv3.futbollibre.net/php/goltv.php?goltv.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="TYC SPORTS " tvg-logo="" group-title "DEPORTES"
+http://sv3.futbollibre.net/php/tyc.php?tyc.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="" group-title "DEPORTES"
+https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CLARO SPORTS 2" tvg-logo="" group-title "DEPORTES"
+https://claro-jw.cdn.vustreams.com/live/channel06/live.isml/master.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CLARO SPORTS 3" tvg-logo="" group-title "DEPORTES"
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CLARO SPORTS 4" tvg-logo="" group-title "DEPORTES"
+https://claro-jw.cdn.vustreams.com/live/channel08/live.isml/master.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="AFIZZIONADOS" tvg-logo="" group-title "DEPORTES"
+http://balancer1.iptvmx.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="FOX SPORTS MX" tvg-logo="" group-title "DEPORTES"
+http://balancer1.iptvmx.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="FOX SPORTS 2 MX " tvg-logo="" group-title "DEPORTES"
+http://balancer1.iptvmx.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="FOX SPORTS 3 MX" tvg-logo="" group-title "DEPORTES"
+http://balancer1.iptvmx.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="FOX SPORTS PREMIUM" tvg-logo="" group-title "DEPORTES"
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="TDT+" tvg-logo="" group-title "DEPORTES"
+http://45.182.20.194:8000/play/7FE5PyMTuPzYZYN2/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="TDT" tvg-logo="" group-title "DEPORTES"
+http://45.182.20.194:8000/play/CtHhZK8VSMyrLuvh/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="TENIS CHANNEL" tvg-logo="" group-title "DEPORTES"
+http://45.182.20.194:8000/play/CuhCF3z5UqBQAt54/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="TYC SPORTS HD" tvg-logo="" group-title "DEPORTES"
+http://45.182.20.194:8000/play/CMGEPVwDeTnyM7Rb/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="VTV" tvg-logo="" group-title "DEPORTES"
+http://45.182.20.194:8000/play/99AG3HLAKBRseUqt/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="TUDN USA" tvg-logo="" group-title "DEPORTES"
+http://45.182.20.194:8000/play/HuT9u9zLHrk8FUk2/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="DEPORTV" tvg-logo="" group-title "DEPORTES"
+http://cdn.stg.cvattv.com.ar/live/live2/DeporTVHD/SA_Live_fta/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="ESPN +" tvg-logo="" group-title "DEPORTES"
+
+http://45.182.20.194:8000/play/7mZEEEBQpQGypd9c/index.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="GLITZ" tvg-logo="" group-title "ENTRETENIMIENTO"
+http://187.188.147.142:8001/play/a011/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="HTV" tvg-logo="" group-title "ENTRETENIMIENTO"
+http://187.188.147.142:8001/play/a01j/index.m3u8
+
+http://187.188.147.142:8001/play/a00u/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="SEXTREME" tvg-logo="" group-title "XXX"
+http://187.188.147.142:8001/play/a012/index.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="TOONCAST" tvg-logo="" group-title "INFANTIL"
+http://187.188.147.142:8001/play/a02k/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="VENUS" tvg-logo="" group-title "XXX"
+http://187.188.147.142:8001/play/a01d/index.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title "DEPORTES"
+http://45.182.20.194:8000/play/3jZRN66nDhuZwLbW/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="ESPN 3" tvg-logo="" group-title "DEPORTES"
+http://45.182.20.194:8000/play/4hrEpujghmYgjET8/index.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="GOL TV EC" tvg-logo="" group-title "DEPORTES"
+http://45.182.20.194:8000/play/S58HV7ekrnCUvF4u/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="" group-title "DEPORTES"
+http://45.182.20.194:8000/play/Xc74Bxbg3Qkc43Sr/index.m3u8
+
+
+#EXTINF:-1,tvg-id="" tvg-name="AZ CORAZON" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="AZ CLIC" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/AZLIC/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="AZ CINEMA" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCINEMA/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="AZ MUNDO" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="D PELICULAS" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/DEPELICULA/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="PANAMERICANA" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/PANAMERICANA/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="LA TELE" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/LATELE/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="DISNEY XD" tvg-logo="" group-title "INFANTIL"
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title "INFANTIL"
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="DISNEY JR" tvg-logo="" group-title "INFANTIL"
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="" group-title "CULTURA"
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOWILD/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="ATV PLUS" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/ATVHD/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="LA EXITOSA" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/LAEXITOSA/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="ATV SUR" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/ATVSURHD/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/HISTORY2/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="VENUS" tvg-logo="" group-title "XXX"
+https://qlobbidev.s.llnwi.net/bpk-tv/VENUS/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="TV PERU" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/TVPERU/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="AMC" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/AMC/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="RCN" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="TL NOVELAS" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/MERIDIANO/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="NAT GEO" tvg-logo="" group-title "CULTURA"
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="FX" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="GOURMET" tvg-logo="" group-title "CULTURA"
+https://qlobbidev.s.llnwi.net/bpk-tv/GOURMET/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="EUROPA EUROPA" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="DHE" tvg-logo="" group-title "ENTRETENIMIENTO"
+https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="MTV" tvg-logo="" group-title "ENTRETENIMIENTO"
+http://195.181.163.39/LAT_MTV_HD/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="TLC" tvg-logo="" group-title "CULTURA"
+http://195.181.163.39/LAT_TLC_HD/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="ADN40" tvg-logo="" group-title "ENTRETENIMIENTO"
+http://balancer1.iptvmx.com:8081/tecno/ADN40.TecnoByte/chunks.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="AYE" tvg-logo="" group-title "ENTRETENIMIENTO"
+http://195.181.163.39/LAT_A&E_HD/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="LIFETIME" tvg-logo="" group-title "ENTRETENIMIENTO"
+http://195.181.163.39/LAT_Lifetime_HD/index.m3u8
+
+
+#EXTINF:-1,tvg-id="" tvg-name="HISTORY" tvg-logo="" group-title "CULTURA"
+http://cdn.stg.cvattv.com.ar/live/live2/HistoryHD/SA_Live_fta/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title "CULTURA"
+http://cdn.stg.cvattv.com.ar/live/live2/DiscoveryHD/SA_Live_fta/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="DISCOVERY HYH" tvg-logo="" group-title "CULTURA"
+http://cdn.stg.cvattv.com.ar/live/live2/DiscoveryHomeHealthHD/SA_Live_fta/index.m3u8
